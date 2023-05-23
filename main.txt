@@ -15,7 +15,7 @@ I have written main code in main branch to complete entire application code
 Feature1
 {
 
-Feature 1 is written in feature1 brnach through develop branch
+Feature 1 is modified  in feature1 brnach through develop branch
 
 }
 
