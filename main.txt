@@ -15,13 +15,14 @@ I have written main code in main branch to complete entire application code
 Feature1
 {
 
-
+Feature 1 is written in feature1 brnach through develop branch
 
 }
 
 
 Feature2
 {
-
+ 
+Feature 2 is written in fetaure/Feature2 branch from develop
 
 }
